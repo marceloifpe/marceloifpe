@@ -84,8 +84,7 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
-<picture align="center">
   <img src="https://raw.githubusercontent.com/marceloifpe/marceloifpe/output/snake.svg" alt="Snake animation" />
-</picture>
+
 
 ###
