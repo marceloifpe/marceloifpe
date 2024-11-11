@@ -1,5 +1,8 @@
 ## <<Hello, welcome to my github>> 👋
 
+# ![snake gif](https://github.com/marceloifpe/marceloifpe/blob/output/github-contribution-grid-snake.gif)
+
+
 <h2 align="left">About Me</h2>
 
 ###
