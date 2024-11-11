@@ -1,7 +1,5 @@
 ## <<Hello, welcome to my github>> 👋
 
-# ![snake gif](https://github.com/marceloifpe/marceloifpe/blob/output/github-contribution-grid-snake.gif)
-
 
 <h2 align="left">About Me</h2>
 
@@ -87,7 +85,7 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
-  <img src="https://raw.githubusercontent.com/marceloifpe/marceloifpe/output/snake.svg" alt="Snake animation" />
+  # ![snake gif](https://github.com/marceloifpe/marceloifpe/blob/output/github-contribution-grid-snake.gif)
 
 
 ###
