@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="left">Hello, my name is Marcelo Augusto. I am a Computer Technician for the Internet, graduating from IFPE Campus Belo Jardim-PE, where I had my first contact with IT in 2017. Today, I am currently studying Computer Engineering at UFRPE in Belo Jardim-PE. I am always looking to constantly update my knowledge with courses and seek new challenges in the technology area to test my learning. I love the IT area, especially data analysis and programming. I have some professional experience as an IT support intern, as a network analyst, as a data intelligence scholarship holder, and also as an engineering intern in the area of ​​task automation, data intelligence, and creation of Low Code apps.</h2>
+<h2 align="left">Hello, my name is Marcelo Augusto. I am a Computer Technician for the Internet, graduating from IFPE Campus Belo Jardim-PE, where I had my first contact with IT in 2017. Today, I am currently studying Software Engineering at IFPE in Belo Jardim-PE. I am always looking to constantly update my knowledge with courses and seek new challenges in the technology area to test my learning. I love the IT area, especially data analysis and programming. I have some professional experience as an IT support intern, as a network analyst, as a data intelligence scholarship holder, and also as an engineering intern in the area of ​​task automation, data intelligence, and creation of Low Code apps.</h2>
 
 ###
 
