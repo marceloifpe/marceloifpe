@@ -17,8 +17,6 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marceloifpe&show_icons=true&theme=gruvbox_light&locale=en" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=marceloifpe&locale=en&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light" height="150" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marceloifpe&radius=16&theme=gruvbox&area=true" height="280" alt="activity-graph graph" />
 </div>
 
 <h2 align="left">Social Media</h2>
@@ -38,5 +36,5 @@
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marceloifpe/marceloifpe/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/marceloifpe/marceloifpe/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake animation" />
 </div>
