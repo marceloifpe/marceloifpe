@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/marcelo-augusto-3b0692195/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/marceloaugusto5494/" target="_blank">
+  <a href="https://www.instagram.com/marcelo_augusto_513/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
   <a href="mailto:marcelo513.ma@gmail.com" target="_blank">
